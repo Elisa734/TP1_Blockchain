@@ -69,5 +69,3 @@ python exercice.py
 # Calcul de soldes : Précis
 
 
-<div align="center">
-</div>
